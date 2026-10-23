@@ -131,8 +131,8 @@ Open the local URL shown in the terminal, usually `http://localhost:8501`.
 
 
 ## Screenshots
-QUESTION 1:(screenshots/question_1.png)
-QUESTION 2:(screenshots/question_2.png)
-QUESTION 3:(screenshots/question_3.png)
-QUESTION 4:(screenshots/question_4.png)
-QUESTION 5:(screenshots/question_5.png)
+(screenshots/question_1.png)
+(screenshots/question_2.png)
+(screenshots/question_3.png)
+(screenshots/question_4.png)
+(screenshots/question_5.png)
